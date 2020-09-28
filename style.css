@@ -1,0 +1,61 @@
+
+            h1{
+                color: brown;
+            }
+            h2{
+                color: crimson;
+            }
+            h3{
+                color: darkolivegreen;
+            }
+            body{
+                background-color: rgb(154, 219, 224);
+                margin: 0px;
+            
+                
+                
+            }
+            
+     .ball span a{
+         background-color: salmon;
+         display: flex;
+         justify-content: space-around;
+         border-style: groove;
+     }
+     .header{
+         display: flex;
+         flex-wrap: wrap;
+         
+         padding: 15px;
+         margin: 16px;
+         font-size: 15px;
+     }
+     .boy{
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: space-evenly;
+
+     }
+     .origami h1 span{
+         border-style:dashed;
+         margin-left:530px;
+         padding: 10px;
+     
+     }
+     .img{
+         border-style: dashed;
+         
+         border-radius: 15px;
+         border-color: lightcoral;
+     }
+     span{
+         border-style: dashed;
+         background-color: lightcoral;
+
+     }
+     .box{
+         border-style: double;
+     }
+     .ball span{
+         border-style: dotted;
+     }
